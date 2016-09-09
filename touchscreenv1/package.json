@@ -1,0 +1,12 @@
+{
+    "name": "essai1",
+    "version": "0.1.0",
+    "dependencies": {
+        "express": "*",
+        "ejs": "*",
+        "johnny-five" : "*"
+    },
+    "author": "astrolabb <alain.cazals@laposte.net>",
+    "description": "raspberry kiosk destop for touchscreen used"
+
+}
